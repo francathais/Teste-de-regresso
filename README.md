@@ -1,4 +1,6 @@
 # Meu Repositório de Estudos
+Machine learning: estudos de regressão
+Regressão linear, regressão polinomial
 
 Bem-vindo ao meu repositório de estudos! Aqui, compartilho uma variedade de materiais e anotações relacionados aos meus estudos e aprendizados. Meu objetivo é documentar meu progresso e fornecer recursos úteis para outros estudantes e entusiastas interessados nos tópicos que estou explorando.
 
